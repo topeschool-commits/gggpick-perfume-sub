@@ -1,0 +1,4 @@
+# Serve Hugo's public/ at the site root (/), not /public/
+name = "gggpick-perfume-sub"
+pages_build_output_dir = "public"
+compatibility_date = "2026-09-06"
